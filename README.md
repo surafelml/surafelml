@@ -1,21 +1,18 @@
-### Surafel Melaku Lakew
+## Surafel M. Lakew
 
+Researcher at [Amazon AWS AI](https://www.amazon.science/author/surafel-melaku-lakew) — currently on
+[Amazon Quick](https://aws.amazon.com/quick/), an agentic AI assistant for work; previously
+[Amazon Q](https://aws.amazon.com/q/business/) and [Amazon Translate](https://aws.amazon.com/translate/).
 
-Scientist at [Amazon AI](https://aws.amazon.com/ai) 
+### Research Focus
+🛡️ AI Safety / Responsible AI (RAI)
 
+📊 Generative AI Evaluation (Agentic Eval)
 
-- Neural Machine Translation
-- Self-Supervised Learning from Unlabeled Data
-- Natural Language Processing, Deep Learning, Machine Learning
+🔍 Retrieval-Augmented Generation (RAG)
 
+🌐 Neural Translation, Multilingual NLP & Automatic Dubbing
 
-<!--
-Further backgournd, recent updates, and social presence
-
-[![Amazon AI](https://img.shields.io/badge/AmazonAI-black?style=flat-square&logo=Amazon-AWS&logoColor=white&link=https://www.)](https://www.)
--->
-
-
-[![Blog](https://img.shields.io/badge/Blog-SurafelML-Black?style=flat-square&logo=&link=https://surafelml.github.io)](https://surafelml.github.io)
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-black?style=flat-square&logo=twitter&link=https://twitter.com/surafelml)](https://twitter.com/surafelml)
-[![Linkedin](https://img.shields.io/badge/Linkedin-Profile-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/surafelml/)](https://www.linkedin.com/in/surafelml/)
+### Links
+[Website](https://surafelml.github.io) ·
+[Google Scholar](https://scholar.google.com/citations?user=GEB4LhgAAAAJ&hl=en) 
